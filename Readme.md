@@ -1,4 +1,4 @@
-![ascii-art (1)](https://github.com/user-attachments/assets/574f2bb0-b4fd-4a3d-b716-30658691ad80)
+
 <h1 align="center">Hi 👋, I'm KARROAT (BHUVAN)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
